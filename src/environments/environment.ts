@@ -10,7 +10,7 @@ export const environment = {
     logoUrl: '',
   },
   oAuthConfig: {
-    issuer: 'http://roljhonprado-001-site1.htempurl.com',
+    issuer: 'http://roljhonprado-001-site1.atempurl.com',
     redirectUri: baseUrl,
     clientId: 'BookStore_App',
     responseType: 'code',
@@ -19,7 +19,7 @@ export const environment = {
   },
   apis: {
     default: {
-      url: 'http://roljhonprado-001-site1.htempurl.com',
+      url: 'http://roljhonprado-001-site1.atempurl.com,
       rootNamespace: 'Acme.BookStore',
     },
   },
